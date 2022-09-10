@@ -7,6 +7,7 @@
 4. `git remote add origin https/link.of@remoterepository`
 5. `git remote -v`
 6. `git status`
+1. `git log`
 7. `git add .`
 8. `git commit -m`
 9. `git branch`
