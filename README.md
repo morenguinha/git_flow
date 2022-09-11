@@ -18,3 +18,5 @@
 14. `git merge`
 15. `git push`
 16. `git flow 'typebranch' publish 'tagbranch'`
+17. `git flow 'typebranch' finish 'tagbranch'`
+
