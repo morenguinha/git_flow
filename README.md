@@ -20,3 +20,5 @@
 16. `git flow 'typebranch' publish 'tagbranch'`
 ---
 * Lembrei do comando `git commit` 
+17. `git flow 'typebranch' finish 'tagbranch'`
+
